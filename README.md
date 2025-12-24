@@ -41,7 +41,7 @@ A modern, responsive calculator built using **HTML, CSS, and JavaScript** with f
 
 ## 📸 Preview
 
-![Calculator Screenshot](assets/screenshot.png)
+![Calculator Screenshot](screenshot_calculator.png)
 
 ---
 
